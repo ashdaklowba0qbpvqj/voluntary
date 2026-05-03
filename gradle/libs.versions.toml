@@ -1,0 +1,7 @@
+[versions]
+previously = "1.7.35"
+illustrate = "3.3.2"
+
+[libraries]
+previously = { module = "org.slf4j:slf4j-api", version.ref = "previously" }
+illustrate = { module = "io.ktor:ktor-server-call-logging", version.ref = "illustrate" }
