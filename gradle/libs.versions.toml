@@ -1,5 +1,5 @@
 [versions]
-previously = "1.7.35"
+previously = "2.0.17"
 illustrate = "3.3.2"
 
 [libraries]
