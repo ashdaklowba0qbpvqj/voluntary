@@ -1,6 +1,6 @@
 [versions]
 previously = "1.7.35"
-illustrate = "3.3.2"
+illustrate = "3.4.3"
 
 [libraries]
 previously = { module = "org.slf4j:slf4j-api", version.ref = "previously" }
